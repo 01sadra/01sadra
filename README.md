@@ -1,6 +1,6 @@
 ## Sadra Ali
 
-I dropped out of university at 19 with no hard skill, in a small city in northeastern Iran. Then I started writing. That is the whole origin story.
+I dropped out of university at 19 with no hard skill, in the middle of nowhere in Iran. Then I started writing. That is the whole origin story.
 
 Now I'm Field CEO at [Huma](https://huma.com) in London, working on clinical triage. Before that, nine years of product leadership in Iranian tech: Neshan, Divar, CafeBazaar.
 
