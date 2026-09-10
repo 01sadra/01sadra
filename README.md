@@ -22,11 +22,13 @@ I write about it at [theycallmesam.com](https://www.theycallmesam.com/). Notes o
 
 ### Elsewhere
 
+- [X](https://x.com/01sadra)
 - [LinkedIn](https://www.linkedin.com/in/01sadra/)
 - [theycallmesam.com](https://www.theycallmesam.com/)
+- 01sadra@gmail.com
 
 Reading right now: Topol, *Deep Medicine*. Next: Groopman, *How Doctors Think*.
 
-If you work on evals, or on clinical decision support, or you just think I'm wrong about something above, my inbox is open.
+If you work on evals, or on clinical decision support, or you just think I'm wrong about something above, write to me. 01sadra@gmail.com
 
 That's it.
