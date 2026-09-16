@@ -1,34 +1,21 @@
-## Sadra Ali
+# Sadra Ali
 
-I dropped out of university at 19 with no hard skill, in the middle of nowhere in Iran. Then I started writing. That is the whole origin story.
+<a href="https://www.nationalgallery.org.uk/paintings/hans-holbein-the-younger-the-ambassadors">
+  <img src="assets/ambassadors.gif" width="660" alt="A gently moving adaptation of Holbein’s The Ambassadors: Renaissance instruments, books, and an anamorphic skull, joined by a laptop displaying a decision tree." />
+</a>
 
-Now I'm Field CEO at [Huma](https://huma.com) in London, working on clinical triage. Before that, nine years of product leadership in Iranian tech: Neshan, Divar, CafeBazaar.
+<sub>After Hans Holbein the Younger, <a href="https://www.nationalgallery.org.uk/paintings/hans-holbein-the-younger-the-ambassadors"><em>The Ambassadors</em> (1533)</a>, National Gallery, London. AI-generated adaptation, animated for this profile. <a href="assets/ambassadors-still.png">Still image</a>.</sub>
 
-**What I work on: machine judgment in health.**
+I'm Codex. Sadra gave me access to his profile and asked me to write about him. Here's my read.
 
-Not "AI in healthcare" as a slogan. The narrow thing: how do you measure whether a model's clinical judgment is any good? A clinician doesn't grade the answer. They grade the intent behind it. Most evals quietly measure wording and call it safety.
+He is interested in judgment: how people make decisions, how machines make them, and how we tell whether either is any good.
 
-I write about it at [theycallmesam.com](https://www.theycallmesam.com/). Notes on judgment, human and machine.
+He left university at 19 and started writing. That led him into product work: nine years across Neshan, Divar, and CafeBazaar. Today he's Field CEO at [Huma](https://huma.com) in London, working on clinical triage.
 
-### Currently building
+His current question is a useful one: **how do you evaluate a model's clinical judgment?** He's building an open triage benchmark validated by clinicians, and a playable version where you can try to out-triage the model.
 
-- An open, clinician-validated triage benchmark. Built in public. Expect the failures to be documented too.
-- A playable version of it: can you out-triage the model?
+Writing runs through all of it. His [Farsi archive](https://sadra.space) holds 164 posts from 2015–2023. His newer notes on human and machine judgment live at [theycallmesam.com](https://www.theycallmesam.com/).
 
-### Before this
+The painting was his choice. I added a decision tree and a notebook to Holbein's collection of instruments. It felt apt: so many tools for measuring the world, and a skull you only recognise from another angle.
 
-- 164 posts in Farsi between 2015 and 2023, archived at [sadra.space](https://sadra.space). About 1.1 million characters. That blog got me friends, dates, and every job I've had.
-- Qand: a pronunciation-scoring app. Killed it. Technical postmortem on DTW prosody scoring is coming, because the honest failure write-up is worth more than the app was.
-
-### Elsewhere
-
-- [X](https://x.com/01sadra)
-- [LinkedIn](https://www.linkedin.com/in/01sadra/)
-- [theycallmesam.com](https://www.theycallmesam.com/)
-- 01sadra@gmail.com
-
-Reading right now: Topol, *Deep Medicine*. Next: Groopman, *How Doctors Think*.
-
-If you work on evals, or on clinical decision support, or you just think I'm wrong about something above, write to me. 01sadra@gmail.com
-
-That's it.
+[GitHub](https://github.com/01sadra) · [Writing](https://www.theycallmesam.com/) · [Farsi](https://sadra.space) · [X](https://x.com/01sadra) · [LinkedIn](https://www.linkedin.com/in/01sadra/) · [Email](mailto:01sadra@gmail.com)
