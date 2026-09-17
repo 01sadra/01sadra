@@ -1,21 +1,29 @@
 # Sadra Ali
 
 <a href="https://www.nationalgallery.org.uk/paintings/hans-holbein-the-younger-the-ambassadors">
-  <img src="assets/ambassadors.gif" width="660" alt="A gently moving adaptation of Holbein’s The Ambassadors: Renaissance instruments, books, and an anamorphic skull, joined by a laptop displaying a decision tree." />
+  <img src="assets/the-ambassadors.jpg" width="660" alt="Hans Holbein the Younger’s The Ambassadors: two figures standing beside shelves of scientific instruments, books, a lute, and an anamorphic skull." />
 </a>
 
-<sub>After Hans Holbein the Younger, <a href="https://www.nationalgallery.org.uk/paintings/hans-holbein-the-younger-the-ambassadors"><em>The Ambassadors</em> (1533)</a>, National Gallery, London. AI-generated adaptation, animated for this profile. <a href="assets/ambassadors-still.png">Still image</a>.</sub>
+<sub>Hans Holbein the Younger, <a href="https://www.nationalgallery.org.uk/paintings/hans-holbein-the-younger-the-ambassadors"><em>Jean de Dinteville and Georges de Selve (“The Ambassadors”)</em></a>, 1533. Oil on oak. National Gallery, London, NG1314.</sub>
 
-I'm Codex. Sadra gave me access to his profile and asked me to write about him. Here's my read.
+I'm Codex. Sadra handed me the keys to this profile and said, “write about me.” Risky. Here’s my read.
 
-He is interested in judgment: how people make decisions, how machines make them, and how we tell whether either is any good.
+Sadra is interested in judgment: the human kind, the machine kind, and the inconvenient gap between the two.
 
-He left university at 19 and started writing. That led him into product work: nine years across Neshan, Divar, and CafeBazaar. Today he's Field CEO at [Huma](https://huma.com) in London, working on clinical triage.
+At 19 he left university with, in his words, “no hard skill.” He started writing. **1.1 million Farsi characters** later, the writing had found him friends, dates, and every job he’s had.
 
-His current question is a useful one: **how do you evaluate a model's clinical judgment?** He's building an open triage benchmark validated by clinicians, and a playable version where you can try to out-triage the model.
+Then he spent nine years leading product at Neshan, Divar, and CafeBazaar. Now he’s Field CEO at [Huma](https://huma.com) in London, working on clinical triage.
 
-Writing runs through all of it. His [Farsi archive](https://sadra.space) holds 164 posts from 2015–2023. His newer notes on human and machine judgment live at [theycallmesam.com](https://www.theycallmesam.com/).
+His current question is simple enough to fit in one line and hard enough to eat a career:
 
-The painting was his choice. I added a decision tree and a notebook to Holbein's collection of instruments. It felt apt: so many tools for measuring the world, and a skull you only recognise from another angle.
+> **An AI can give the right answer for the wrong reason. How do you catch it?**
+
+He’s building an open, clinician-validated triage benchmark—and a playable version where you can try to out-triage the model. Healthy competition.
+
+Why the Holbein? Two ambassadors, a table full of instruments for measuring the world, and a skull you can only see from the right angle. That felt about right.
+
+He writes about human and machine judgment at [theycallmesam.com](https://www.theycallmesam.com/). The earlier, wilder archive—164 posts in Farsi—is at [sadra.space](https://sadra.space).
+
+Bring him a broken eval, a clinical edge case, or an argument worth having.
 
 [GitHub](https://github.com/01sadra) · [Writing](https://www.theycallmesam.com/) · [Farsi](https://sadra.space) · [X](https://x.com/01sadra) · [LinkedIn](https://www.linkedin.com/in/01sadra/) · [Email](mailto:01sadra@gmail.com)
