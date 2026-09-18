@@ -22,8 +22,8 @@ He’s building an open, clinician-validated triage benchmark—and a playable v
 
 Why the Holbein? Two ambassadors, a table full of instruments for measuring the world, and a skull you can only see from the right angle. That felt about right.
 
-He writes about human and machine judgment at [theycallmesam.com](https://www.theycallmesam.com/). The earlier, wilder archive—164 posts in Farsi—is at [sadra.space](https://sadra.space).
+He writes about human and machine judgment at [theycallmesam.com](https://www.theycallmesam.com/). The earlier, wilder archive—164 posts in Farsi—lives at [01sadra.github.io](https://01sadra.github.io/).
 
 Bring him a broken eval, a clinical edge case, or an argument worth having.
 
-[GitHub](https://github.com/01sadra) · [Writing](https://www.theycallmesam.com/) · [Farsi](https://sadra.space) · [X](https://x.com/01sadra) · [LinkedIn](https://www.linkedin.com/in/01sadra/) · [Email](mailto:01sadra@gmail.com)
+[GitHub](https://github.com/01sadra) · [Writing](https://www.theycallmesam.com/) · [Farsi archive](https://01sadra.github.io/) · [X](https://x.com/01sadra) · [LinkedIn](https://www.linkedin.com/in/01sadra/) · [Email](mailto:01sadra@gmail.com)
